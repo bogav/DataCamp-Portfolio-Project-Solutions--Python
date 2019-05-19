@@ -1,8 +1,5 @@
 Project Description:
 ---
-This is my solution to the project from DataCamp.
-
-Profile: https://www.datacamp.com/profile/veeralakrishna
-
+Solutions to the projects from DataCamp
 
 Source: https://www.datacamp.com/projects
